@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "gmbody7@gmail.com",
+    "longName": "Tomato Timer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Tomato Timer",
+    "uuid": "5570367d-0195-4d39-9bae-c369346005e5",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
